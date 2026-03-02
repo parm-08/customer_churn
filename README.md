@@ -94,6 +94,7 @@ Train-Test Split:
 📈 Model Performance
 
 Metric                   	Value
+
 Accuracy	                79.4%
 Precision (Churn         	62%
 Recall (Churn)	          56%
