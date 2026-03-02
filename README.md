@@ -1,4 +1,4 @@
-Customer Churn Prediction
+# Customer Churn Prediction
 
 Predicting customer churn using Machine Learning to help telecom companies reduce customer loss and improve retention strategies.
 
